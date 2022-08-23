@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onnx-web/static/css/main.fd628e8b.css",
+    "main.js": "/onnx-web/static/js/main.86999d74.js",
+    "index.html": "/onnx-web/index.html",
+    "main.fd628e8b.css.map": "/onnx-web/static/css/main.fd628e8b.css.map",
+    "main.86999d74.js.map": "/onnx-web/static/js/main.86999d74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd628e8b.css",
+    "static/js/main.86999d74.js"
+  ]
+}
